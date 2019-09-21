@@ -34,7 +34,7 @@ bot.on('message', function (user, userID, channelID, message, evt) {
                 });
             break;
 
-            case 'monkas':
+            case 'monkasa':
                 bot.sendMessage({
                     to: channelID,
                     message: 'Jaj!'
