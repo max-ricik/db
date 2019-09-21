@@ -10,6 +10,6 @@
         "winston": "^3.2.1"
     },
     "scripts": {
-            "build": "my-framework build --output public"
+            "build": "https://github.com/max-ricik/eeej --output public"
     }
 }
