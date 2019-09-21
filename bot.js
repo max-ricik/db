@@ -32,7 +32,8 @@ bot.on('message', function (user, userID, channelID, message, evt) {
                     to: channelID,
                     message: 'Pong!'
                 });
-            
+            break;
+
             case 'monkas':
                 bot.sendMessage({
                     to: channelID,
